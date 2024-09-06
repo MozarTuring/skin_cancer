@@ -1,0 +1,11 @@
+pandas
+tqdm
+pyarrow
+jupyter
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+imblearn
+optuna
